@@ -1,1 +1,1 @@
-git push https://<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>@github.com/caa77998/IOS_APP.git
+git push https://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@github.com/caa77998/IOS_APP.git
